@@ -1,0 +1,13 @@
+a=1;
+function test1(){
+	var b= 2;
+   console.log(a);
+	function test2(){
+	var c= 22;
+	   console.log(b);
+    	
+	}
+ //test2();
+	
+}
+test1();
