@@ -5,7 +5,7 @@ function test1(){
 	function test2(){
 	var c= 22;
 	   console.log(b);
-    	
+    	haaaaaaaaa
 	}
  //test2();
 	
